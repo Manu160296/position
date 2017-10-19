@@ -1,0 +1,18 @@
+.first{
+  background-color: #ee3e64;
+  height: 300px;
+  width: 300px;
+}
+.second{
+  background-color: #44accf;
+  height: 300px;
+  width: 300px;
+}
+.third{
+  background-color: #b7d84b;
+  height: 300px;
+  width: 300px;
+}
+body{
+  float: inherit;
+}
