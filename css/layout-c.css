@@ -1,19 +1,20 @@
 .first{
   background-color: #ee3e64;
-  float: inherit;
+  float: left;
   height: 300px;
   width: 300px;
-}
+       }
 .second{
   background-color: #44accf;
+  float: left;
   height: 300px;
-  left: 300px;
-  position: relative;
   width: 300px;
-}
+
+       }
 .third{
   background-color: #b7d84b;
-  float: inherit;
   height: 300px;
+  position: relative;
+  top: 300px;
   width: 300px;  
-}
+      }
